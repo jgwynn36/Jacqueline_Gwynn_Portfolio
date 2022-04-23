@@ -21,7 +21,7 @@
   "homepage": "https://github.com/jgwynn36/Jacqueline_Gwynn_Portfolio#readme",
   "dependencies": {
     "eslint": "^5.16.0",
-    "express-handlebars": "^3.0.2",
+    "express-handlebars": "^6.0.5",
     "materialize-css": "^1.0.0-rc.2"
   }
 }
