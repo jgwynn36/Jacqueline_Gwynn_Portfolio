@@ -18,7 +18,7 @@
   "bugs": {
     "url": "https://github.com/jgwynn36/Jacqueline_Gwynn_Portfolio/issues"
   },
-  "homepage": "https://github.com/jgwynn36/Jacqueline_Gwynn_Portfolio#readme",
+  "homepage": "https://github.com/jgwynn36/Jacqueline_Gwynn_Portfolio/blob/master/views/index.html",
   "dependencies": {
     "eslint": "^5.16.0",
     "express-handlebars": "^6.0.5",
